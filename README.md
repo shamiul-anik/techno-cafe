@@ -1,7 +1,7 @@
 # Techno Cafe
 
 ## Description
-An Assignment with React, React Toast, API and Local Storage to Make a Simple Blog Page with Bookmark and Adding Read Time Functionality.
+An assignment with React, React Toast, API and Local Storage to make a simple blog page with bookmark and adding read time functionality.
 
 ## Live Link
 https://techno-cafe-shamiul.netlify.app/
