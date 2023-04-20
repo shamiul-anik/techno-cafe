@@ -61,6 +61,7 @@ const BlogContainer = ({ notifyError, notifySuccess, notifyInfo }) => {
       newBookmark.push(blog);
       localStorage.setItem("bookMark", JSON.stringify(newBookmark));
       setAddedBookmark(newBookmark);
+      notifySuccess();
     }
   };
 
