@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "author_name": "Alan Smith",
+    "blog_title": "Building Interactive UIs with React",
+    "images": {
+      "blog_cover": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "author_image": "https://images.unsplash.com/photo-1615109398623-88346a601842?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    "read_time": "10",
+    "related_tags": [
+      "react",
+      "design"
+    ],
+    "publish_date": "Mar 30 (2 Days ago)"
+  },
+  {
+    "id": 2,
+    "author_name": "David Warner",
+    "blog_title": "How to Use Redux with React",
+    "images": {
+      "blog_cover": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+      "author_image": "https://images.unsplash.com/photo-1583864697784-a0efc8379f70?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80"
+    },
+    "read_time": "12",
+    "related_tags": [
+      "react",
+      "redux"
+    ],
+    "publish_date": "Mar 26 (6 Days ago)"
+  },
+  {
+    "id": 3,
+    "author_name": "Jane Smith",
+    "blog_title": "Best Practices for React Development",
+    "images": {
+      "blog_cover": "https://images.unsplash.com/photo-1550063873-ab792950096b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "author_image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    "read_time": "08",
+    "related_tags": [
+      "react",
+      "development"
+    ],
+    "publish_date": "Mar 20 (12 Days ago)"
+  },
+  {
+    "id": 4,
+    "author_name": "Bob Johnson",
+    "blog_title": "Introduction to React Native",
+    "images": {
+      "blog_cover": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "author_image": "https://images.unsplash.com/photo-1590086782957-93c06ef21604?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    "read_time": "15",
+    "related_tags": [
+      "react native",
+      "app development"
+    ],
+    "publish_date": "Mar 15 (17 Days ago)"
+  }
+]

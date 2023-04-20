@@ -1,0 +1,54 @@
+/* Time and Bookmark Container */
+.time-bookmark-container {
+  position: sticky;
+  top: 12px;
+}
+
+/* Sidebar Time Card */
+.sidebar-time-card {
+  background-color: rgba(96, 71, 236, 0.1);
+  border: 1px solid #6047EC;
+  border-radius: 8px;
+}
+
+/* Sidebar Time Card Text */
+.sidebar-time-card > h5 {
+  font-family: 'Exo 2';
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.1;
+  color: #6047EC;
+  text-align: center;
+}
+
+/* Bookmark Container */
+.bookmark-container {
+  background-color: rgba(17, 17, 17, 0.05);
+  padding: 16px;
+  border-radius: 8px;
+}
+
+/* Bookmarked Blog's Number */
+.bookmark-container > h5 {
+  font-family: 'Exo 2';
+  font-weight: 700;
+  font-size: 20px;
+  color: #111111;
+}
+
+/* Bookmarked Blog Title Container */
+.bookmarked-blog-title-container {
+  margin-top: 0.75rem;
+  background: #FFFFFF;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0px 0px 2px 1px rgba(0,0,0,0.1);
+}
+
+/* Bookmarked Blog Title Text */
+.bookmarked-blog-title-container > h6 {
+  font-family: 'Exo 2';
+  font-weight: 600;
+  font-size: 14px;
+  color: #111111;
+}

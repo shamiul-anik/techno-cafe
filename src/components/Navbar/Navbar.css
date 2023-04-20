@@ -1,0 +1,82 @@
+/* Navbar */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* height: 80px; */
+  /* padding: 1rem 6rem; */
+  padding: 2rem 0rem;
+  border-bottom: 2px solid rgba(17, 17, 17, 0.15);
+  max-width: 1280px;
+  margin-inline: auto;
+  /* position: sticky;
+  top: 0;
+  z-index: 100; */
+}
+
+/* Navbar Brand */
+.navbar-brand {
+  text-decoration: none;
+  font-family: 'Exo 2', sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 1.6;
+  color: #111111;
+}
+
+/* User Image Container */
+.user-img-container {
+  display: flex;
+  align-items: center;
+}
+
+/* User Image */
+.user-img {
+  /* height: 60px; */
+  aspect-ratio: 1;
+  cursor: pointer;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 767px) {
+  .navbar {
+    padding: 1rem;
+  }
+}
+
+/* Navbar List */
+/* .nav-list {
+  display: flex;
+  gap: 2rem;
+} */
+
+/* Navbar List Items */
+/* .nav-item {
+  margin: 5px 10px;
+  position: relative;
+}
+
+.nav-item a {
+  text-decoration: none;
+  color: #111111;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.nav-item > a::after {
+  position: relative;
+  content: "";
+  display: block;
+  margin: auto;
+  height: 2px;
+  width: 0;
+  top: 3px;
+  background: transparent;
+  transition: all 0.3s;
+} */
+
+/* Navbar List Items Hover*/
+/* .nav-item > a:hover::after {
+  width: 100%;
+  background: #111111;
+} */

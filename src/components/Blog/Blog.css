@@ -1,0 +1,72 @@
+/* Blog Main Container */
+.blog-main-container {
+  grid-column: 1/3;
+}
+
+/* Q&A Blog Container */
+.qa-blog-container {
+  margin-top: 5rem;
+}
+
+/* Q&A Blog Title */
+.qa-blog-title {
+  font-family: 'Exo 2';
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 1.1;
+  color: #6047EC;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+/* Q&A Banner */
+.question-img > img {
+  height: 500px;
+  object-fit: cover;
+  border-radius: 0.5rem;
+}
+
+/* Q&A Blog Text */
+.question-text {
+  font-family: 'Exo 2';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1;
+  color: #111111;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Answer Container */
+.answer-container {
+  font-family: 'Exo 2';
+  font-size: 16px;
+  text-align: justify;
+  line-height: 1.3;
+}
+
+/* Answer */
+.answer {
+  font-weight: 600;
+  font-size: 18px;
+  color: #046004;
+  text-decoration: underline;
+}
+
+
+/* Responsive Design */
+@media screen and (max-width: 767px) {
+  /* Blog Main Container */
+  .blog-main-container {
+    grid-column: 1/1;
+  }
+  /* Q&A Banner */
+  .question-img > img {
+    height: 200px;
+    object-position: right;
+  }
+  /* Q&A Blog Text */
+  .question-text {
+    margin-top: 1rem;
+  }
+}
